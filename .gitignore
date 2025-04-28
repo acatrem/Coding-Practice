@@ -1,0 +1,18 @@
+# Derleme dosyaları
+*.exe
+*.o
+*.obj
+*.out
+
+# VSCode ayar dosyaları
+.vscode/
+.vscode/*
+*.code-workspace
+
+# Geçici dosyalar
+*.log
+*.tmp
+
+# Diğer
+bin/
+build/
